@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on :  Grafer Community<br>📫 How to reach me : https://www.linkedin.com/in/indeepadisanayaka/<br>🌱 I’m currently learning : node.js , Python<br>💬 Ask me about : HTML , CSS , JavaScript , Bootstrap frameworks , Next js , JAVA , MySQL , React native , React <br>⚡ Fun fact : I create figma designs for fun 😁<br>👾 Nickname : Indeepa dev
+🔭 I’m currently working on :  Grafer Community<br>📫 How to reach me : https://www.linkedin.com/in/indeepadisanayaka/<br>🌱 I’m currently learning : node.js , Python<br>💬 Ask me about : HTML , CSS , JavaScript , Bootstrap frameworks , Next js , JAVA , MySQL , React native , Expo , React <br>⚡ Fun fact : I create figma designs for fun 😁<br>👾 Nickname : Indeepa dev
 ## [![](https://visitcount.itsvg.in/api?id=IndeepaDisanayaka&icon=6&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
